@@ -1,0 +1,89 @@
+
+# 📚 Library Management System (Java Console App)
+
+This is a simple **Library Management System** built using **Java and Object-Oriented Programming (OOP)** principles. It allows managing books and users, with options to borrow and return books.
+
+---
+
+## 🎯 Features
+
+- 📖 Add and List Books
+- 👤 Register and List Users
+- 📚 Borrow and Return Books
+- 🧠 Built using OOP concepts (Encapsulation, Abstraction)
+
+---
+
+## 🧱 Technologies Used
+
+- Java (OOP)
+- Console Input/Output
+- No external libraries required
+
+---
+
+## 🛠️ Setup Instructions
+
+1. Clone or download the project files.
+2. Open the project in any Java IDE (IntelliJ, Eclipse, VS Code).
+3. Compile and run the `Main.java` file.
+4. Use the interactive console menu to manage the library.
+
+---
+
+## 🔁 Sample Menu
+
+```
+=== Library Menu ===
+1. List Books
+2. Borrow Book
+3. Return Book
+4. Exit
+Choose: 
+```
+
+---
+
+## 🚀 Future Enhancements
+
+- Spring Boot REST API version
+- MySQL/H2 Database Integration
+- User Authentication & Roles (Admin, Student)
+- GUI version using JavaFX or Swing
+
+---
+
+🧠 OOP Concepts Used
+Encapsulation: Private variables + public getters/setters
+
+Abstraction: Hiding inner logic
+
+Inheritance/Polymorphism: Can be added (e.g., AdminUser vs StudentUser)
+
+
+
+🧪 Sample Output
+markdown
+Copy
+Edit
+=== Library Menu ===
+1. List Books
+2. Borrow Book
+3. Return Book
+4. Exit
+Choose: 1
+Library Books:
+ - 1: Java Basics by James Gosling
+ - 2: Spring in Action by Craig Walls
+
+## 👨‍💻 Author
+
+Monu Kumar  
+📧 monu270202@gmail.com  
+📱 +91-9472411654
+
+---
+
+## 📝 License
+
+This project is open-source and free to use.
